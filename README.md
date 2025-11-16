@@ -19,13 +19,14 @@ Welcome to my GitHub! Here's a bit about me:
 
 ### 📚 My Tech Stack
 - **Languages**: Python, JavaScript, C++, Java, and more.  
-- **Frameworks & Tools**: Git, Docker.
+- **Frameworks & Tools**: Git.
 - **OS**: Arch Linux (my go-to for development!)
 
 ---
 
 ### 📫 How to reach me:
 - **Discord**: `8412th`
+- **Email** : papaibrahima8.diop@gmail.com
 - Feel free to open an issue or PR if you’d like to collaborate or discuss software development!
 
 ---
